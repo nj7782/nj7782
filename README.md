@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nj7782
+- 👋 Hi, I’m Jitin
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning webdevelopment,python
 - 📫 You can reach me through [Instagram](https://www.instagram.com/nj7782/)
