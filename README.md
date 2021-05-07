@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nj7782
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning webdevelopment,python
-- 📫 How to reach me [Instagram](https://www.instagram.com/nj7782/),[gmail](nallamjitin@gmail.com)
+- 📫 You can reach me through [Instagram](https://www.instagram.com/nj7782/)
 
 <!---
 nj7782/nj7782 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
