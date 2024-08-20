@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jitin
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning webdevelopment,python
-- 📫 You can reach me through [Instagram](https://www.instagram.com/nj7782/)
+- 👀 I’m interested in Cyber Security and Devops
+- 🌱 I’m currently learning 
+- 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/nallamjitin/)
 
 <!---
 nj7782/nj7782 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
