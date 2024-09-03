@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Jitin
-- 👀 I’m interested in Cyber Security and Devops
-- 🌱 I’m currently learning 
 - 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/nallamjitin/)
 
 <!---
